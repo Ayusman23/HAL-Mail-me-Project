@@ -58,9 +58,6 @@ Update database credentials in the configuration file
 
 Build and run the project from Visual Studio
 
-📸 Screenshots
-
-(Add screenshots here for better presentation)
 
 🎯 Use Case
 
