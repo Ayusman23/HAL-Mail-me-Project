@@ -114,7 +114,40 @@ mail.me-project-main/
 │   └── package.json
 └── package.json         # Unified task runner
 ```
+---
 
+## 🖼️ User Interface Gallery
+
+### 1. Authentication Flow
+Secure access with modern, responsive Login and Signup interfaces featuring JWT-based protection.
+
+| Login Page | Signup Page |
+| :---: | :---: |
+| ![Login](./assets/Login.jpg) | ![Signup](./assets/Signup.jpg) |
+
+---
+
+### 2. Dashboard & Navigation
+Professional landing and services overview showcasing the platform's core capabilities.
+
+| Landing Page | Services Overview |
+| :---: | :---: |
+| ![Landing Page](./assets/Landing%20Page.png) | ![Services Page](./assets/Services%20Page.png) |
+
+---
+
+### 3. Core Features in Action
+The heart of Mail.Me: Jarvis AI for template generation and the advanced real-time email editor.
+
+#### **Jarvis AI Assistant**
+*Instantly generate templates from over 20+ offline categories.*
+![Jarvis AI Assistant](./assets/Chat%20Assitant.png)
+
+#### **Email Editor & Preview**
+*Real-time preview and custom placeholder integration for personalized outreach.*
+![Main Section](./assets/Main%20Section.png)
+
+---
 ---
 
 ## 🤝 Contributing
