@@ -123,7 +123,7 @@ Secure access with modern, responsive Login and Signup interfaces featuring JWT-
 
 | Login Page | Signup Page |
 | :---: | :---: |
-| ![Login](./assets/Login.jpg) | ![Signup](./assets/Signup.jpg) |
+| ![Login](./assets/Login.png) | ![Signup](./assets/Signup.png) |
 
 ---
 
